@@ -1,0 +1,6 @@
+{
+    "DS1302.getYear|block": "%ds|获取年",
+    "DS1302.setYear|block": "%ds|设置年",
+    "DS302|block": "RTC",
+    "{id:category}DS1302": "DS1302 实时时钟"
+}
