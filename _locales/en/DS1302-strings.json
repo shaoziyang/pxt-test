@@ -1,0 +1,6 @@
+{
+    "DS1302.getYear|block": "%ds|get year",
+    "DS1302.setYear|block": "%ds|set year",
+    "DS302|block": "RTC",
+    "{id:category}DS1302": "DS1302 RTC"
+}
