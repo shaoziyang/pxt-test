@@ -4,7 +4,7 @@
     "description": "pxt DS1302 rtc package",
     "license": "MIT",
     "dependencies": {
-        "core": "*",
+        "core": "*"
     },
     "files": [
         "README.md",
