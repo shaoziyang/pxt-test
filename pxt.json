@@ -9,6 +9,8 @@
     "files": [
         "README.md",
         "main.ts",
+        "_locales/en/DS1302-strings.json",
+        "_locales/en/DS1302-jsdoc-strings.json",
         "_locales/zh-CN/DS1302-strings.json",
         "_locales/zh-CN/DS1302-jsdoc-strings.json"
     ],

@@ -1,6 +1,23 @@
 {
-    "DS1302.getYear|block": "%ds|get year",
-    "DS1302.setYear|block": "%ds|set year",
-    "DS302|block": "RTC",
-    "{id:category}DS1302": "DS1302 RTC"
+    "DS1302.getYear|block": "%ds|get Year",
+    "DS1302.setYear|block": "%ds|set year %dat",
+    "DS1302.getMonth|block": "%ds|get month",
+    "DS1302.setMonth|block": "%ds|set month %dat",
+    "DS1302.getDay|block": "%ds|get Day",
+    "DS1302.setDay|block": "%ds|set day %dat",
+    "DS1302.getWeekday|block": "%ds|get weekday",
+    "DS1302.setWeekday|block": "%ds|set weekday %dat",
+    "DS1302.getHour|block": "%ds|get hour",
+    "DS1302.setHour|block": "%ds|set hour %dat",
+    "DS1302.getMinute|block": "%ds|get minute",
+    "DS1302.setMinute|block": "%ds|set minute %dat",
+    "DS1302.getSecond|block": "%ds|get second",
+    "DS1302.setSecond|block": "%ds|set second %dat",
+    "DS1302.DateTime|block": "%ds|set Date and Time: year %year|month %month||day %day|weekday %weekday|hour %hour|minute %minute|second %second",
+    "DS1302.start|block": "%ds|start",
+    "DS1302.stop|block": "%ds|pause",    
+    "DS1302.readRam|block": "%ds|read RAM %reg",
+    "DS1302.writeRam|block": "%ds|write RAM %reg|dat %dat",
+    "DS302|block": "RTC-DS1302",
+    "{id:category}DS1302": "RTC:DS1302"
 }
